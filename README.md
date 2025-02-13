@@ -9,4 +9,4 @@ This is a fully working website.
 ---
 <p align="center">
 Show some ❤ by starring this repository.
-</p>!!
+</p>!.
